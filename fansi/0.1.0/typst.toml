@@ -1,0 +1,10 @@
+[package]
+name = "fansi"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["myrrlyn <self@myrrlyn.net>"]
+license = "CC-PDDC"
+description = "Safety-themed styling and elements drawn from ANSI Z535, ISO 3864, and ISO 7010."
+homepage = "https://myrrlyn.net/"
+repository = "https://github.com/myrrlyn/typst"
+compiler = "0.14"
